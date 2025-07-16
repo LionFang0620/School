@@ -10,3 +10,5 @@ HEYHEYHEY
 [google](https://www.google.com)
 
 [練習](exam.txt)
+
+[school技術文件](doc/index.html)
