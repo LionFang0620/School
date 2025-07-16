@@ -12,3 +12,5 @@ HEYHEYHEY
 [練習](exam.txt)
 
 [school技術文件](doc/index.html)
+
+![珍珠奶茶](pic\tea.jpg)
