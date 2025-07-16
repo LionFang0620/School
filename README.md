@@ -13,4 +13,4 @@ HEYHEYHEY
 
 [school技術文件](doc/index.html)
 
-![珍珠奶茶](pic\tea.jpg)
+![珍珠奶茶](School\pic\tea.jpg)
