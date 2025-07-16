@@ -9,3 +9,4 @@ HEYHEYHEY
 
 [google](https://www.google.com)
 
+[練習](exam.txt)
